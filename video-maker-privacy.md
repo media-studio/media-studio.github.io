@@ -1,4 +1,4 @@
-### Privacy Policy<br>
+## Privacy Policy<br>
 Video Maker is developed and published by GUOMEI ZHANG. All intellectual property rights are owned by GUOMEI ZHANG
  
 This Privacy Policy explains our privacy practices for the Service. It describes the ways your personal information and data is collected and used through our designated mobile application. It also describes the rights and options available to you with respect to your information.
