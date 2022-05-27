@@ -21,7 +21,7 @@ You must be 4+ years of age or older in order to use the App.
  
 Advertising SDK
  
-We use google AdMob SDK and Facebook advertising SDK to show the advertisements in the App.
+We use google AdMob SDK advertising SDK to show the advertisements in the App.
  
 Information we automatically collect
  
@@ -29,7 +29,7 @@ Device Information
 We may collect information about your mobile device, including its model, operating system type and version, unique identifiers, language, mobile network information and the Internet Protocol (IP) address through which you accessed the Service.
  
 Analytical data
-We may use third party analytics tools for A/B testing. Crashlytics & Answers by Fabric for capture crash reports and retention tracking. For example, we may record the frequency and scope of your use of the Service, the duration of your sessions, the interactions you make with the Serviceʼs interface, etc.
+We may use third party analytics tools for A/B testing. Crashlytics & Answers by Firebase for capture crash reports and retention tracking. For example, we may record the frequency and scope of your use of the Service, the duration of your sessions, the interactions you make with the Serviceʼs interface, etc.
  
 Data Retention
 We retains the information collected pursuant to this Privacy Policy. If the collected information is no longer needed for purposes specified in this Privacy Policy, We shall delete all aforementioned information in its possession.
